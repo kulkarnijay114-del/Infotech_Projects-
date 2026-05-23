@@ -1,0 +1,9 @@
+requests==2.31.0
+pymongo==4.6.1
+python-dotenv==1.0.1
+schedule==1.2.1
+elasticsearch==8.12.0
+rich==13.7.0
+click==8.1.7
+pytest==8.1.0
+pytest-mock==3.12.0
